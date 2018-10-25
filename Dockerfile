@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/nginx-ingress:0.2
+FROM gcr.io/google_containers/nginx-ingress
